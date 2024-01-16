@@ -149,6 +149,7 @@ html {
 
 .movie-poster-modal {
     width: 300px;
+    height: auto;
 }
 
 .movie-poster {
